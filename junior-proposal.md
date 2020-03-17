@@ -48,7 +48,8 @@ Dates 3/16-3/25
 
 ## Wireframes
 
-**Insert wireframe pictures here**
+**Insert wireframe pictures here** https://wireframe.cc/juc3UQ
+
 
 
 ## Evaluation
@@ -66,7 +67,7 @@ Dates 3/16-3/25
 ## Approval Checklist
 - [7] I wrote this proposal to represent my work and only my work
 - [7] I have completed all the necessary parts of this proposal
-- [ ] I linked my proposal in the Spring Intensive Tracker
+- [7] I linked my proposal in the Spring Intensive Tracker
 
 ### Sign off
 
